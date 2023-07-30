@@ -18,11 +18,6 @@ This repository contains the code and data for the B2B-Courier-Charges-Accuracy-
 4. **Difference Calculation**: Compare the expected charges with the charges applied by the courier company.
 5. **Summary Statistics**: Summarize the findings to understand overcharged, undercharged, and correctly charged orders.
 
-## Project Insights
-
-- Out of the total orders analyzed, approximately X% were correctly charged, Y% were overcharged, and Z% were undercharged.
-- The total amount overcharged was Rs. XYZ, while the total amount undercharged was Rs. PQR.
-
 ## Project Outcomes
 
 By conducting this analysis, valuable insights were provided to the finance and logistics teams at ABC Couriers. The information will help optimize the courier charges process, ensure accurate billing for clients, and potentially lead to cost savings and improved customer satisfaction.
